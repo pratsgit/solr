@@ -733,9 +733,9 @@ limitations under the License.
 }
 
 #content #designer .schema-actions label.checkbox {
-  margin-left: 27%;
+  margin-left: 0;
   text-align: left;
-  width: 73%;
+  width: 100%;
   padding: 0px;
   margin-top: 0px;
 }
